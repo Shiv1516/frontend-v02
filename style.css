@@ -1028,15 +1028,15 @@ th {
 }
 .right-trangle {
   position: absolute;
-  right: -2px;
-  top: -10px;
+  right: -9px;
+  top: 0px;
   border-bottom: 10px solid #d7445b;
   border-right: 10px solid #fff;
 }
 .left-trangle {
   position: absolute;
-  right: 31%;
-  top: -10px;
+  left: -10px;
+  top: 0px;
   border-right: 10px solid #d7445b;
   border-top: 10px solid #fff;
 }
